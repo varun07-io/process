@@ -1,0 +1,35 @@
+/* .brk-img {
+    height: 700px;
+    width: auto;
+} */
+
+.title {
+    font-family: 'Yellowtail', cursive;
+
+}
+.sub {
+    font-family: 'Arapey', serif;
+}
+.top {
+    background-color: #1eae98;
+    color: azure;
+    padding-bottom: -4rem;
+}
+
+.middle {
+    background-image: url(img3.png);
+    background-size: cover;
+}
+.bottom {
+    margin-top: 100px;
+    background: whitesmoke;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: auto;
+    margin: 16px;  
+}
+.d-block {
+    height: 40vw;
+    width: auto;
+}
